@@ -1,6 +1,3 @@
-Certainly! Here's the Markdown content for the README file based on your provided code:
-
-```markdown
 # Virtual Assistant
 
 This project implements a virtual assistant using Python.
@@ -30,7 +27,7 @@ This project demonstrates the implementation of a virtual assistant using variou
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/richa42/voice-assistant.git
    cd VirtualAssistant
    ```
 
@@ -43,7 +40,7 @@ This project demonstrates the implementation of a virtual assistant using variou
 
 1. Run the `virtual_assistant.py` script:
    ```bash
-   python virtual_assistant.py
+   python3 main.py
    ```
 
 2. Follow the instructions provided by the virtual assistant.
@@ -55,6 +52,3 @@ Contributions to this project are welcome. Feel free to open an issue or submit 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace `<repository_url>` with the actual URL of your GitHub repository. This Markdown content provides a basic structure for a README file explaining the project and how to install and use it. Feel free to customize it further based on your project's specific details and requirements.
