@@ -9,7 +9,6 @@ This project implements a virtual assistant using Python.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -49,6 +48,3 @@ This project demonstrates the implementation of a virtual assistant using variou
 
 Contributions to this project are welcome. Feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
